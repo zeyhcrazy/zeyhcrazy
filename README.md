@@ -39,6 +39,7 @@ Ferramentas que criei para resolver problemas reais de hardware e rede.
 
 | Projeto | O que é | Feito com |
 |---|---|---|
+| **[Rede MikroTik atrás de CGNAT](https://github.com/zeyhcrazy/rede-mikrotik-cgnat)** | Rede de casa com MikroTik hEX: falha de firewall que derrubava conexões diretas, bufferbloat corrigido com CAKE (latência no upload de 50 para 1,5 ms) e auditoria só de leitura com medições. | MikroTik RouterOS · Redes · PowerShell |
 | **[Zeyh DRAM Tweaker](https://github.com/zeyhcrazy/ZeyhDramTweaker)** | Calculadora de timings e tensões de RAM para Ryzen (Zen 1 a Zen 5). Lê a memória do PC, compara com o recomendado e mede a latência em ns. | C# · WPF · .NET 9 |
 | **[LG webOS TV — tela inicial própria](https://github.com/zeyhcrazy/lg-webos-home)** | TV LG (webOS 6) deixada limpa e com tela inicial estilo PS5, com relato técnico do processo de personalização e root (feito pelo método público da comunidade). | webOS · Linux · HTML/JS · Python |
 | **[Casa-Controle](https://github.com/zeyhcrazy/Casa-Controle)** | App Android que liga e desliga o PC (Wake-on-LAN) e controla a TV LG pela rede local, com certificado fixado e pareamento por token. | Android · Java · Python |
