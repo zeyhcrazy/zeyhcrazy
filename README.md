@@ -29,9 +29,9 @@ App para Windows (WPF / .NET) que otimiza a BIOS para jogos. Detecta o processad
 
 ### Zeyh Windows Tweaker
 
-App para Windows (WPF / .NET) que otimiza o Windows para jogos, com perfis: completo (remove o Edge e o antivírus do Windows para o máximo desempenho), simples (não remove nada) e intermediários, que mantêm o Edge ou o antivírus. Também cria ponto de restauração antes; o acesso é por chave. · [conhecer](https://zeyhotimizacao.com.br/)
+App para Windows (WPF / .NET) que otimiza o Windows para jogos com um clique: uma otimização completa que deixa o PC rápido sem remover nada do sistema. Também cria ponto de restauração e instala o Chrome; o acesso é por chave. · [conhecer](https://zeyhotimizacao.com.br/)
 
-<img src="assets/windows-tweaker.png" width="340" alt="Tela do Zeyh Windows Tweaker: perfis de otimização e validação da chave">
+<img src="assets/windows-tweaker.png" width="340" alt="Tela do Zeyh Windows Tweaker: otimização completa, ponto de restauração e validação da chave">
 
 ## Projetos em código aberto
 
